@@ -1,0 +1,18 @@
+body{
+    font-family: 'Mukta', sans-serif;
+}
+h1{
+    font-size: 50;
+}
+.name-highight{
+    color: rgb(230, 43, 43);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
